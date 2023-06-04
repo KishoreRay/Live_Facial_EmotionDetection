@@ -11,3 +11,4 @@ Once trained, the AI facial emotion detection system can be deployed in real-tim
 The output of the system typically includes the recognized emotion labels along with a confidence score indicating the system's certainty about the detected emotion. It can be integrated into various applications, such as video analytics, market research, human-computer interaction, and mental health monitoring.
 
 The AI Facial Emotion Detection project aims to provide a reliable and efficient tool for understanding and interpreting human emotions. By automating the process of emotion detection, the system can assist in a wide range of fields, including psychology, human behavior analysis, and user experience design.
+# smbamdj
